@@ -100,7 +100,7 @@
     </tr>
     <tr>
      <th>6</th>
-     <td class="cherniy"><img src=""></td>
+     <td class="cherniy"></td>
      <td class="beliy"></td>
      <td class="cherniy"></td>
      <td class="beliy"></td>
